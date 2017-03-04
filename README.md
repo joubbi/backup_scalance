@@ -1,8 +1,10 @@
 # backup_scalance
 
-__DO NOT USE THIS SCRIPT!__ _(and reconsider using Siemens Scalance switches)_
+__DO NOT USE THIS SCRIPT!__ _(and reconsider using Siemens Scalance switches at all)_
+
 _There is a bug (or maybe a feature?) that reboots any Scalance switch when logging in with SSH and issuing commands interactively.
-Siemes support is informed about this. They have confirmed the problem, but not fixed the problem to my knowledge._
+Siemes technical support is informed about this. They have confirmed the problem, but not fixed it to my knowledge._
+
 
 
 This is a script for backing up Siemens Scalamce switches.
