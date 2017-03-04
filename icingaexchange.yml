@@ -1,0 +1,18 @@
+name: backup_scalance
+description: "file:///README.md"
+url: "https://gitlab.com/faridj/check_scalance_fault"
+tags: Hardware, Scalance, Siemens
+vendor: Siemens
+target: Hardware
+type: Plugin
+license: Apache v2
+releases:
+  -
+    name: 1.0
+    description: "1.0 Release"
+    files:
+      -
+        name: backup_scalance
+        url: "https://gitlab.com/faridj/backup_scalance/raw/master/backup_scalance.exp"
+        description: "First public release"
+        checksum: cadb1c67a91988ec30b1bec32f2366db 
